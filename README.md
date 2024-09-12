@@ -8,6 +8,12 @@ NodeJS, realizaremos un par de practicas de repaso en JavaScript puro, con
 el objetico de confirmar los conocimientos basicos de logica de 
 programación.
 
+## historial de Practicas
+|No.|Descripción|Estatus|
+| --|--|--|
+|1.|Metodología de Evaluación|✅Finalizada|
+|2.|Inicialización del Proyecto de Fundamentos de JS| Activa|
+
 
 ### Author
 Edgar Cabrera Velázquez
