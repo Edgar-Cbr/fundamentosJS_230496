@@ -11,7 +11,7 @@ programación.
 ## historial de Practicas
 |No.|Descripción|Estatus|
 | --|--|--|
-|1.|Metodología de Evaluación|✅Finalizada|
+|1.|Metodología de Evaluación|✅✅Finalizada|
 |2.|Inicialización del Proyecto de Fundamentos de JS| Activa|
 
 
