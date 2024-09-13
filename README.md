@@ -12,7 +12,7 @@ programación.
 |No.|Descripción|Potenciador|Estatus|
 | --|--|--|
 |1.|Metodología de Evaluación|✅Finalizada|
-|2.|Inicialización del Proyecto de Fundamentos de JS| Finalizada|
+|2.|Inicialización del Proyecto de Fundamentos de JS|✅Finalizada|
 |3.|Ejercicio 01: Declaracion de variables en JS| Activa|
 
 
